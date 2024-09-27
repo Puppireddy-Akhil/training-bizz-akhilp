@@ -1,122 +1,122 @@
-    1  2024-09-27 10:20:02 sudo adduser akhilp
-    2  2024-09-27 10:20:02 sudo addpasswd akhilp
-    3  2024-09-27 10:20:02 sudo passwd akhilp
-    4  2024-09-27 10:20:02 sudo -su
-    5  2024-09-27 10:20:02 sudo nano /etc/ssh/sshd_config
-    6  2024-09-27 10:20:02 sudo vi /etc/ssh/sshd_config
-    7  2024-09-27 10:20:02 sudo service sshd restart
-    8  2024-09-27 10:20:02 sudo systemctl sshd restart
-    9  2024-09-27 10:20:02 sudo systemctl restart sshd
-   10  2024-09-27 10:20:02 su -akhilp
-   11  2024-09-27 10:20:02 su - akhilp
-   12  2024-09-27 10:20:02 sudo systemctl restart sshd
-   13  2024-09-27 10:20:02 ls -al
-   14  2024-09-27 10:20:02 cd .ssh
-   15  2024-09-27 10:20:02 ls -al
-   16  2024-09-27 10:20:02 sudo systemctl restart sshd
-   17  2024-09-27 10:20:02 cd ..
-   18  2024-09-27 10:20:02 su - akhilp
-   19  2024-09-27 10:20:02 sudo bash
-   20  2024-09-27 10:20:02 sudo yum update
-   21  2024-09-27 10:20:02 sudo yum install wget
-   22  2024-09-27 10:20:02 sudo yum install java-21-openjdk-devel
-   23  2024-09-27 10:20:02 java -version
-   24  2024-09-27 10:20:02 cat /etc/redhat-release
-   25  2024-09-27 10:20:02 sudo bash
-   26  2024-09-27 10:20:02 df - ah
-   27  2024-09-27 10:20:02 df -ah
-   28  2024-09-27 10:20:02 free -g
-   29  2024-09-27 10:20:02 free -m
-   30  2024-09-27 10:20:02 top
-   31  2024-09-27 10:20:02 wget https://www.oracle.com/in/database/technologies/xe-downloads.htmlhttps://www.oracle.com/in/database/technologies/xe-downloads.htmlhttps://www.oracle.com/in/database/technologies/xe-download
-   32  2024-09-27 10:20:02 wget https://www.oracle.com/in/database/technologies/xe-downloads.html
-   33  2024-09-27 10:20:02 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-   34  2024-09-27 10:20:02 ls
-   35  2024-09-27 10:20:02 ls -1
-   36  2024-09-27 10:20:02 lsn-l
-   37  2024-09-27 10:20:02 ls -l
-   38  2024-09-27 10:20:02 ls -lh
-   39  2024-09-27 10:20:02 ls
-   40  2024-09-27 10:20:02 sudo yum localinstall https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-   41  2024-09-27 10:20:02 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-   42  2024-09-27 10:20:02 ls
-   43  2024-09-27 10:20:02 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-   44  2024-09-27 10:20:02 sudo yum local install oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-   45  2024-09-27 10:20:02 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-   46  2024-09-27 10:20:02 history
-   47  2024-09-27 10:20:02 ls -lah
-   48  2024-09-27 10:20:02 ls
-   49  2024-09-27 10:20:02 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
-   50  2024-09-27 10:20:02 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-   51  2024-09-27 10:20:02 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
-   52  2024-09-27 10:20:02 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-   53  2024-09-27 10:20:02 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
-   54  2024-09-27 10:20:02 ls -al
-   55  2024-09-27 10:20:02  sudo yum localistall  compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-   56  2024-09-27 10:20:02  sudo yum localinstall  compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-   57  2024-09-27 10:20:02 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
-   58  2024-09-27 10:20:02 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-   59  2024-09-27 10:20:02 ls
-   60  2024-09-27 10:20:02 ls -al
-   61  2024-09-27 10:20:02 rpm -qa | grep compat-openssl10
-   62  2024-09-27 10:20:02 sudo yum remove compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm.1
-   63  2024-09-27 10:20:02 ls -al
-   64  2024-09-27 10:20:02 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-   65  2024-09-27 10:20:02 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-   66  2024-09-27 10:20:02 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-   67  2024-09-27 10:20:02 sqlplus
-   68  2024-09-27 10:20:02 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-   69  2024-09-27 10:20:02 export ORACLE_SID=XE
-   70  2024-09-27 10:20:02 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-   71  2024-09-27 10:20:02 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-   72  2024-09-27 10:20:02 export ORACLE_SID=XE
-   73  2024-09-27 10:20:02 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-   74  2024-09-27 10:20:02 sqlplus
-   75  2024-09-27 10:20:02 :q
-   76  2024-09-27 10:20:02 sqlplus
-   77  2024-09-27 10:20:02 sudo yum install git
-   78  2024-09-27 10:20:02 git clone https://github.com/Puppireddy-Akhil/training-bizz-akhilp.git
-   79  2024-09-27 10:20:02 git remote -v
-   80  2024-09-27 10:20:02 ssh-keygen -t rsa -b 4096 -C "puppireddyakhil@gmail.com" 
-   81  2024-09-27 10:20:02 eval "$(ssh-agent -s)"
-   82  2024-09-27 10:20:02 ssh-add /.ssh/id_rsa
-   83  2024-09-27 10:20:02 ssh-add 
-   84  2024-09-27 10:20:02 ls
-   85  2024-09-27 10:20:02 ls -a
-   86  2024-09-27 10:20:02 cd .ssh
-   87  2024-09-27 10:20:02 ls
-   88  2024-09-27 10:20:02 cat id_rsa.pub 
-   89  2024-09-27 10:20:02 cd ..
-   90  2024-09-27 10:20:02 ssh -T git@github.com
-   91  2024-09-27 10:20:02 git remote -v
-   92  2024-09-27 10:20:02 git config --global user.name "Puppireddy-Akhil"
-   93  2024-09-27 10:20:02 git config --global user.email "puppireddyakhil@gmail.com"
-   94  2024-09-27 10:20:02 git remote -v
-   95  2024-09-27 10:20:02 ls 
-   96  2024-09-27 10:20:02 ls -a
-   97  2024-09-27 10:20:02 git init
-   98  2024-09-27 10:20:02 git remote -v
-   99  2024-09-27 10:20:02 cd .git
-  100  2024-09-27 10:20:02 git clone https://github.com/Puppireddy-Akhil/training-bizz-akhilp.git
-  101  2024-09-27 10:20:02 ls
-  102  2024-09-27 10:20:02 rmdir training-bizz-akhilp/
-  103  2024-09-27 10:20:02 rm -r training-bizz-akhilp/
-  104  2024-09-27 10:20:02 ls
-  105  2024-09-27 10:20:02 cd ..
-  106  2024-09-27 10:20:02 ls -a
-  107  2024-09-27 10:20:02 git remote -v
-  108  2024-09-27 10:20:02 git config --global user.email "puppireddyakhil@gmail.com"
-  109  2024-09-27 10:20:02  git config --global user.name "Puppireddy-Akhil"
-  110  2024-09-27 10:20:02 gti remote -v
-  111  2024-09-27 10:20:02 git remote -v
-  112  2024-09-27 10:20:02 cd training-bizz-akhilp/
-  113  2024-09-27 10:20:02 git remote
-  114  2024-09-27 10:20:02 git remote -v
-  115  2024-09-27 10:20:02 git remote set-url origin git@github.com:Puppireddy-Akhil/training-bizz-akhilp.git
-  116  2024-09-27 10:20:02 git remote -v
-  117  2024-09-27 10:20:02 cd ..
-  118  2024-09-27 10:20:02 touch corn_script.sh
-  119  2024-09-27 10:20:02 sudo -i
+    1  2024-09-27 10:25:01 sudo adduser akhilp
+    2  2024-09-27 10:25:01 sudo addpasswd akhilp
+    3  2024-09-27 10:25:01 sudo passwd akhilp
+    4  2024-09-27 10:25:01 sudo -su
+    5  2024-09-27 10:25:01 sudo nano /etc/ssh/sshd_config
+    6  2024-09-27 10:25:01 sudo vi /etc/ssh/sshd_config
+    7  2024-09-27 10:25:01 sudo service sshd restart
+    8  2024-09-27 10:25:01 sudo systemctl sshd restart
+    9  2024-09-27 10:25:01 sudo systemctl restart sshd
+   10  2024-09-27 10:25:01 su -akhilp
+   11  2024-09-27 10:25:01 su - akhilp
+   12  2024-09-27 10:25:01 sudo systemctl restart sshd
+   13  2024-09-27 10:25:01 ls -al
+   14  2024-09-27 10:25:01 cd .ssh
+   15  2024-09-27 10:25:01 ls -al
+   16  2024-09-27 10:25:01 sudo systemctl restart sshd
+   17  2024-09-27 10:25:01 cd ..
+   18  2024-09-27 10:25:01 su - akhilp
+   19  2024-09-27 10:25:01 sudo bash
+   20  2024-09-27 10:25:01 sudo yum update
+   21  2024-09-27 10:25:01 sudo yum install wget
+   22  2024-09-27 10:25:01 sudo yum install java-21-openjdk-devel
+   23  2024-09-27 10:25:01 java -version
+   24  2024-09-27 10:25:01 cat /etc/redhat-release
+   25  2024-09-27 10:25:01 sudo bash
+   26  2024-09-27 10:25:01 df - ah
+   27  2024-09-27 10:25:01 df -ah
+   28  2024-09-27 10:25:01 free -g
+   29  2024-09-27 10:25:01 free -m
+   30  2024-09-27 10:25:01 top
+   31  2024-09-27 10:25:01 wget https://www.oracle.com/in/database/technologies/xe-downloads.htmlhttps://www.oracle.com/in/database/technologies/xe-downloads.htmlhttps://www.oracle.com/in/database/technologies/xe-download
+   32  2024-09-27 10:25:01 wget https://www.oracle.com/in/database/technologies/xe-downloads.html
+   33  2024-09-27 10:25:01 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   34  2024-09-27 10:25:01 ls
+   35  2024-09-27 10:25:01 ls -1
+   36  2024-09-27 10:25:01 lsn-l
+   37  2024-09-27 10:25:01 ls -l
+   38  2024-09-27 10:25:01 ls -lh
+   39  2024-09-27 10:25:01 ls
+   40  2024-09-27 10:25:01 sudo yum localinstall https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   41  2024-09-27 10:25:01 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   42  2024-09-27 10:25:01 ls
+   43  2024-09-27 10:25:01 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   44  2024-09-27 10:25:01 sudo yum local install oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   45  2024-09-27 10:25:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   46  2024-09-27 10:25:01 history
+   47  2024-09-27 10:25:01 ls -lah
+   48  2024-09-27 10:25:01 ls
+   49  2024-09-27 10:25:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+   50  2024-09-27 10:25:01 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   51  2024-09-27 10:25:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+   52  2024-09-27 10:25:01 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   53  2024-09-27 10:25:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+   54  2024-09-27 10:25:01 ls -al
+   55  2024-09-27 10:25:01  sudo yum localistall  compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   56  2024-09-27 10:25:01  sudo yum localinstall  compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   57  2024-09-27 10:25:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+   58  2024-09-27 10:25:01 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   59  2024-09-27 10:25:01 ls
+   60  2024-09-27 10:25:01 ls -al
+   61  2024-09-27 10:25:01 rpm -qa | grep compat-openssl10
+   62  2024-09-27 10:25:01 sudo yum remove compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm.1
+   63  2024-09-27 10:25:01 ls -al
+   64  2024-09-27 10:25:01 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   65  2024-09-27 10:25:01 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   66  2024-09-27 10:25:01 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   67  2024-09-27 10:25:01 sqlplus
+   68  2024-09-27 10:25:01 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+   69  2024-09-27 10:25:01 export ORACLE_SID=XE
+   70  2024-09-27 10:25:01 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+   71  2024-09-27 10:25:01 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+   72  2024-09-27 10:25:01 export ORACLE_SID=XE
+   73  2024-09-27 10:25:01 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+   74  2024-09-27 10:25:01 sqlplus
+   75  2024-09-27 10:25:01 :q
+   76  2024-09-27 10:25:01 sqlplus
+   77  2024-09-27 10:25:01 sudo yum install git
+   78  2024-09-27 10:25:01 git clone https://github.com/Puppireddy-Akhil/training-bizz-akhilp.git
+   79  2024-09-27 10:25:01 git remote -v
+   80  2024-09-27 10:25:01 ssh-keygen -t rsa -b 4096 -C "puppireddyakhil@gmail.com" 
+   81  2024-09-27 10:25:01 eval "$(ssh-agent -s)"
+   82  2024-09-27 10:25:01 ssh-add /.ssh/id_rsa
+   83  2024-09-27 10:25:01 ssh-add 
+   84  2024-09-27 10:25:01 ls
+   85  2024-09-27 10:25:01 ls -a
+   86  2024-09-27 10:25:01 cd .ssh
+   87  2024-09-27 10:25:01 ls
+   88  2024-09-27 10:25:01 cat id_rsa.pub 
+   89  2024-09-27 10:25:01 cd ..
+   90  2024-09-27 10:25:01 ssh -T git@github.com
+   91  2024-09-27 10:25:01 git remote -v
+   92  2024-09-27 10:25:01 git config --global user.name "Puppireddy-Akhil"
+   93  2024-09-27 10:25:01 git config --global user.email "puppireddyakhil@gmail.com"
+   94  2024-09-27 10:25:01 git remote -v
+   95  2024-09-27 10:25:01 ls 
+   96  2024-09-27 10:25:01 ls -a
+   97  2024-09-27 10:25:01 git init
+   98  2024-09-27 10:25:01 git remote -v
+   99  2024-09-27 10:25:01 cd .git
+  100  2024-09-27 10:25:01 git clone https://github.com/Puppireddy-Akhil/training-bizz-akhilp.git
+  101  2024-09-27 10:25:01 ls
+  102  2024-09-27 10:25:01 rmdir training-bizz-akhilp/
+  103  2024-09-27 10:25:01 rm -r training-bizz-akhilp/
+  104  2024-09-27 10:25:01 ls
+  105  2024-09-27 10:25:01 cd ..
+  106  2024-09-27 10:25:01 ls -a
+  107  2024-09-27 10:25:01 git remote -v
+  108  2024-09-27 10:25:01 git config --global user.email "puppireddyakhil@gmail.com"
+  109  2024-09-27 10:25:01  git config --global user.name "Puppireddy-Akhil"
+  110  2024-09-27 10:25:01 gti remote -v
+  111  2024-09-27 10:25:01 git remote -v
+  112  2024-09-27 10:25:01 cd training-bizz-akhilp/
+  113  2024-09-27 10:25:01 git remote
+  114  2024-09-27 10:25:01 git remote -v
+  115  2024-09-27 10:25:01 git remote set-url origin git@github.com:Puppireddy-Akhil/training-bizz-akhilp.git
+  116  2024-09-27 10:25:01 git remote -v
+  117  2024-09-27 10:25:01 cd ..
+  118  2024-09-27 10:25:01 touch corn_script.sh
+  119  2024-09-27 10:25:01 sudo -i
   120  2024-09-27 10:04:31 # Load history from the history file manually
   121  2024-09-27 10:04:31 history -a
   122  2024-09-27 10:04:31 # Load history from the history file manually
@@ -167,179 +167,211 @@
   167  2024-09-27 10:15:01 git push origin main
   168  2024-09-27 10:20:02 # Load history from the history file manually
   169  2024-09-27 10:20:02 history -a
-  170  2024-09-27 10:20:02 history_file=~/.bash_history
-  171  2024-09-27 10:20:02 if [ -f $history_file ]; then     history -r $history_file  # Read the history file into the current session
+  170  2024-09-27 10:20:02 # Load history from the history file manually
+  171  2024-09-27 10:20:02 history -a
+  172  2024-09-27 10:20:02 # Navigate to your GitHub repo
+  173  2024-09-27 10:20:02 cd ~/training-bizz-akhilp
+  174  2024-09-27 10:20:02 # Save the history to the commandslist.txt file inside the repo
+  175  2024-09-27 10:20:02 history > ./commandslist.txt
+  176  2024-09-27 10:20:02 # Get the current date and time
+  177  2024-09-27 10:20:02 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  178  2024-09-27 10:20:02 # Add the commandslist.txt file to Git
+  179  2024-09-27 10:20:02 git add ./commandslist.txt
+  180  2024-09-27 10:20:02 # Commit the changes with the current time in the message
+  181  2024-09-27 10:20:02 git commit -m "Committed at $current_time"
+  182  2024-09-27 10:20:02 # Push the changes to GitHub
+  183  2024-09-27 10:20:02 git push origin main
+  184  2024-09-27 10:25:01 # Load history from the history file manually
+  185  2024-09-27 10:25:01 history -a
+  186  2024-09-27 10:25:01 history_file=~/.bash_history
+  187  2024-09-27 10:25:01 if [ -f $history_file ]; then     history -r $history_file  # Read the history file into the current session
 fi
-  172  2024-09-27 10:20:02 sudo adduser akhilp
-  173  2024-09-27 10:20:02 sudo addpasswd akhilp
-  174  2024-09-27 10:20:02 sudo passwd akhilp
-  175  2024-09-27 10:20:02 sudo -su
-  176  2024-09-27 10:20:02 sudo nano /etc/ssh/sshd_config
-  177  2024-09-27 10:20:02 sudo vi /etc/ssh/sshd_config
-  178  2024-09-27 10:20:02 sudo service sshd restart
-  179  2024-09-27 10:20:02 sudo systemctl sshd restart
-  180  2024-09-27 10:20:02 sudo systemctl restart sshd
-  181  2024-09-27 10:20:02 su -akhilp
-  182  2024-09-27 10:20:02 su - akhilp
-  183  2024-09-27 10:20:02 sudo systemctl restart sshd
-  184  2024-09-27 10:20:02 ls -al
-  185  2024-09-27 10:20:02 cd .ssh
-  186  2024-09-27 10:20:02 ls -al
-  187  2024-09-27 10:20:02 sudo systemctl restart sshd
-  188  2024-09-27 10:20:02 cd ..
-  189  2024-09-27 10:20:02 su - akhilp
-  190  2024-09-27 10:20:02 sudo bash
-  191  2024-09-27 10:20:02 sudo yum update
-  192  2024-09-27 10:20:02 sudo yum install wget
-  193  2024-09-27 10:20:02 sudo yum install java-21-openjdk-devel
-  194  2024-09-27 10:20:02 java -version
-  195  2024-09-27 10:20:02 cat /etc/redhat-release
-  196  2024-09-27 10:20:02 sudo bash
-  197  2024-09-27 10:20:02 df - ah
-  198  2024-09-27 10:20:02 df -ah
-  199  2024-09-27 10:20:02 free -g
-  200  2024-09-27 10:20:02 free -m
-  201  2024-09-27 10:20:02 top
-  202  2024-09-27 10:20:02 wget https://www.oracle.com/in/database/technologies/xe-downloads.htmlhttps://www.oracle.com/in/database/technologies/xe-downloads.htmlhttps://www.oracle.com/in/database/technologies/xe-download
-  203  2024-09-27 10:20:02 wget https://www.oracle.com/in/database/technologies/xe-downloads.html
-  204  2024-09-27 10:20:02 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-  205  2024-09-27 10:20:02 ls
-  206  2024-09-27 10:20:02 ls -1
-  207  2024-09-27 10:20:02 lsn-l
-  208  2024-09-27 10:20:02 ls -l
-  209  2024-09-27 10:20:02 ls -lh
-  210  2024-09-27 10:20:02 ls
-  211  2024-09-27 10:20:02 sudo yum localinstall https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-  212  2024-09-27 10:20:02 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-  213  2024-09-27 10:20:02 ls
-  214  2024-09-27 10:20:02 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-  215  2024-09-27 10:20:02 sudo yum local install oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-  216  2024-09-27 10:20:02 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-  217  2024-09-27 10:20:02 history
-  218  2024-09-27 10:20:02 ls -lah
-  219  2024-09-27 10:20:02 ls
-  220  2024-09-27 10:20:02 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
-  221  2024-09-27 10:20:02 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-  222  2024-09-27 10:20:02 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
-  223  2024-09-27 10:20:02 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-  224  2024-09-27 10:20:02 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
-  225  2024-09-27 10:20:02 ls -al
-  226  2024-09-27 10:20:02  sudo yum localistall  compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-  227  2024-09-27 10:20:02  sudo yum localinstall  compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-  228  2024-09-27 10:20:02 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
-  229  2024-09-27 10:20:02 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-  230  2024-09-27 10:20:02 ls
-  231  2024-09-27 10:20:02 ls -al
-  232  2024-09-27 10:20:02 rpm -qa | grep compat-openssl10
-  233  2024-09-27 10:20:02 sudo yum remove compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm.1
-  234  2024-09-27 10:20:02 ls -al
-  235  2024-09-27 10:20:02 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-  236  2024-09-27 10:20:02 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-  237  2024-09-27 10:20:02 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-  238  2024-09-27 10:20:02 sqlplus
-  239  2024-09-27 10:20:02 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-  240  2024-09-27 10:20:02 export ORACLE_SID=XE
-  241  2024-09-27 10:20:02 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-  242  2024-09-27 10:20:02 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-  243  2024-09-27 10:20:02 export ORACLE_SID=XE
-  244  2024-09-27 10:20:02 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-  245  2024-09-27 10:20:02 sqlplus
-  246  2024-09-27 10:20:02 :q
-  247  2024-09-27 10:20:02 sqlplus
-  248  2024-09-27 10:20:02 sudo yum install git
-  249  2024-09-27 10:20:02 git clone https://github.com/Puppireddy-Akhil/training-bizz-akhilp.git
-  250  2024-09-27 10:20:02 git remote -v
-  251  2024-09-27 10:20:02 ssh-keygen -t rsa -b 4096 -C "puppireddyakhil@gmail.com" 
-  252  2024-09-27 10:20:02 eval "$(ssh-agent -s)"
-  253  2024-09-27 10:20:02 ssh-add /.ssh/id_rsa
-  254  2024-09-27 10:20:02 ssh-add 
-  255  2024-09-27 10:20:02 ls
-  256  2024-09-27 10:20:02 ls -a
-  257  2024-09-27 10:20:02 cd .ssh
-  258  2024-09-27 10:20:02 ls
-  259  2024-09-27 10:20:02 cat id_rsa.pub 
-  260  2024-09-27 10:20:02 cd ..
-  261  2024-09-27 10:20:02 ssh -T git@github.com
-  262  2024-09-27 10:20:02 git remote -v
-  263  2024-09-27 10:20:02 git config --global user.name "Puppireddy-Akhil"
-  264  2024-09-27 10:20:02 git config --global user.email "puppireddyakhil@gmail.com"
-  265  2024-09-27 10:20:02 git remote -v
-  266  2024-09-27 10:20:02 ls 
-  267  2024-09-27 10:20:02 ls -a
-  268  2024-09-27 10:20:02 git init
-  269  2024-09-27 10:20:02 git remote -v
-  270  2024-09-27 10:20:02 cd .git
-  271  2024-09-27 10:20:02 git clone https://github.com/Puppireddy-Akhil/training-bizz-akhilp.git
-  272  2024-09-27 10:20:02 ls
-  273  2024-09-27 10:20:02 rmdir training-bizz-akhilp/
-  274  2024-09-27 10:20:02 rm -r training-bizz-akhilp/
-  275  2024-09-27 10:20:02 ls
-  276  2024-09-27 10:20:02 cd ..
-  277  2024-09-27 10:20:02 ls -a
-  278  2024-09-27 10:20:02 git remote -v
-  279  2024-09-27 10:20:02 git config --global user.email "puppireddyakhil@gmail.com"
-  280  2024-09-27 10:20:02  git config --global user.name "Puppireddy-Akhil"
-  281  2024-09-27 10:20:02 gti remote -v
-  282  2024-09-27 10:20:02 git remote -v
-  283  2024-09-27 10:20:02 cd training-bizz-akhilp/
-  284  2024-09-27 10:20:02 git remote
-  285  2024-09-27 10:20:02 git remote -v
-  286  2024-09-27 10:20:02 git remote set-url origin git@github.com:Puppireddy-Akhil/training-bizz-akhilp.git
-  287  2024-09-27 10:20:02 git remote -v
-  288  2024-09-27 10:20:02 cd ..
-  289  2024-09-27 10:20:02 touch corn_script.sh
-  290  2024-09-27 10:20:02 sudo -i
-  291  2024-09-27 10:04:31 # Load history from the history file manually
-  292  2024-09-27 10:04:31 history -a
-  293  2024-09-27 10:04:31 # Load history from the history file manually
-  294  2024-09-27 10:04:31 history -a
-  295  2024-09-27 10:04:31 # Navigate to your GitHub repo
-  296  2024-09-27 10:04:31 cd ~/training-biz-akhilp
-  297  2024-09-27 10:04:31 # Save the history to the commandslist.txt file inside the repo
-  298  2024-09-27 10:04:31 history > ./commandslist.txt
-  299  2024-09-27 10:04:31 # Get the current date and time
-  300  2024-09-27 10:04:31 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  301  2024-09-27 10:04:31 # Add the commandslist.txt file to Git
-  302  2024-09-27 10:04:31 git add ./commandslist.txt
-  303  2024-09-27 10:04:31 # Commit the changes with the current time in the message
-  304  2024-09-27 10:04:31 git commit -m "Committed at $current_time"
-  305  2024-09-27 10:04:31 # Push the changes to GitHub
-  306  2024-09-27 10:04:31 git push origin main
-  307  2024-09-27 10:08:01 # Load history from the history file manually
-  308  2024-09-27 10:08:01 history -a
-  309  2024-09-27 10:08:01 # Load history from the history file manually
-  310  2024-09-27 10:08:01 history -a
-  311  2024-09-27 10:08:01 # Navigate to your GitHub repo
-  312  2024-09-27 10:08:01 cd ~/training-bizz-akhilp
-  313  2024-09-27 10:08:01 # Save the history to the commandslist.txt file inside the repo
-  314  2024-09-27 10:08:01 history > ./commandslist.txt
-  315  2024-09-27 10:08:01 # Get the current date and time
-  316  2024-09-27 10:08:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  317  2024-09-27 10:08:01 # Add the commandslist.txt file to Git
-  318  2024-09-27 10:08:01 git add ./commandslist.txt
-  319  2024-09-27 10:08:01 # Commit the changes with the current time in the message
-  320  2024-09-27 10:08:01 git commit -m "Committed at $current_time"
-  321  2024-09-27 10:08:01 # Push the changes to GitHub
-  322  2024-09-27 10:08:01 git push origin main
-  323  2024-09-27 10:15:01 # Load history from the history file manually
-  324  2024-09-27 10:15:01 history -a
-  325  2024-09-27 10:15:01 # Load history from the history file manually
-  326  2024-09-27 10:15:01 history -a
-  327  2024-09-27 10:15:01 # Navigate to your GitHub repo
-  328  2024-09-27 10:15:01 cd ~/training-bizz-akhilp
-  329  2024-09-27 10:15:01 # Save the history to the commandslist.txt file inside the repo
-  330  2024-09-27 10:15:01 history > ./commandslist.txt
-  331  2024-09-27 10:15:01 # Get the current date and time
-  332  2024-09-27 10:15:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
-  333  2024-09-27 10:15:01 # Add the commandslist.txt file to Git
-  334  2024-09-27 10:15:01 git add ./commandslist.txt
-  335  2024-09-27 10:15:01 # Commit the changes with the current time in the message
-  336  2024-09-27 10:15:01 git commit -m "Committed at $current_time"
-  337  2024-09-27 10:15:01 # Push the changes to GitHub
-  338  2024-09-27 10:15:01 git push origin main
-  339  2024-09-27 10:20:02 # Load history from the history file manually
-  340  2024-09-27 10:20:02 history -a
-  341  2024-09-27 10:20:02 # Navigate to your GitHub repo
-  342  2024-09-27 10:20:02 cd ~/training-bizz-akhilp
-  343  2024-09-27 10:20:02 # Save the history to the commandslist.txt file inside the repo
-  344  2024-09-27 10:20:02 history > ./commandslist.txt
+  188  2024-09-27 10:25:01 sudo adduser akhilp
+  189  2024-09-27 10:25:01 sudo addpasswd akhilp
+  190  2024-09-27 10:25:01 sudo passwd akhilp
+  191  2024-09-27 10:25:01 sudo -su
+  192  2024-09-27 10:25:01 sudo nano /etc/ssh/sshd_config
+  193  2024-09-27 10:25:01 sudo vi /etc/ssh/sshd_config
+  194  2024-09-27 10:25:01 sudo service sshd restart
+  195  2024-09-27 10:25:01 sudo systemctl sshd restart
+  196  2024-09-27 10:25:01 sudo systemctl restart sshd
+  197  2024-09-27 10:25:01 su -akhilp
+  198  2024-09-27 10:25:01 su - akhilp
+  199  2024-09-27 10:25:01 sudo systemctl restart sshd
+  200  2024-09-27 10:25:01 ls -al
+  201  2024-09-27 10:25:01 cd .ssh
+  202  2024-09-27 10:25:01 ls -al
+  203  2024-09-27 10:25:01 sudo systemctl restart sshd
+  204  2024-09-27 10:25:01 cd ..
+  205  2024-09-27 10:25:01 su - akhilp
+  206  2024-09-27 10:25:01 sudo bash
+  207  2024-09-27 10:25:01 sudo yum update
+  208  2024-09-27 10:25:01 sudo yum install wget
+  209  2024-09-27 10:25:01 sudo yum install java-21-openjdk-devel
+  210  2024-09-27 10:25:01 java -version
+  211  2024-09-27 10:25:01 cat /etc/redhat-release
+  212  2024-09-27 10:25:01 sudo bash
+  213  2024-09-27 10:25:01 df - ah
+  214  2024-09-27 10:25:01 df -ah
+  215  2024-09-27 10:25:01 free -g
+  216  2024-09-27 10:25:01 free -m
+  217  2024-09-27 10:25:01 top
+  218  2024-09-27 10:25:01 wget https://www.oracle.com/in/database/technologies/xe-downloads.htmlhttps://www.oracle.com/in/database/technologies/xe-downloads.htmlhttps://www.oracle.com/in/database/technologies/xe-download
+  219  2024-09-27 10:25:01 wget https://www.oracle.com/in/database/technologies/xe-downloads.html
+  220  2024-09-27 10:25:01 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  221  2024-09-27 10:25:01 ls
+  222  2024-09-27 10:25:01 ls -1
+  223  2024-09-27 10:25:01 lsn-l
+  224  2024-09-27 10:25:01 ls -l
+  225  2024-09-27 10:25:01 ls -lh
+  226  2024-09-27 10:25:01 ls
+  227  2024-09-27 10:25:01 sudo yum localinstall https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  228  2024-09-27 10:25:01 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  229  2024-09-27 10:25:01 ls
+  230  2024-09-27 10:25:01 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  231  2024-09-27 10:25:01 sudo yum local install oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  232  2024-09-27 10:25:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  233  2024-09-27 10:25:01 history
+  234  2024-09-27 10:25:01 ls -lah
+  235  2024-09-27 10:25:01 ls
+  236  2024-09-27 10:25:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  237  2024-09-27 10:25:01 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  238  2024-09-27 10:25:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm -y
+  239  2024-09-27 10:25:01 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  240  2024-09-27 10:25:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+  241  2024-09-27 10:25:01 ls -al
+  242  2024-09-27 10:25:01  sudo yum localistall  compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  243  2024-09-27 10:25:01  sudo yum localinstall  compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  244  2024-09-27 10:25:01 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+  245  2024-09-27 10:25:01 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  246  2024-09-27 10:25:01 ls
+  247  2024-09-27 10:25:01 ls -al
+  248  2024-09-27 10:25:01 rpm -qa | grep compat-openssl10
+  249  2024-09-27 10:25:01 sudo yum remove compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm.1
+  250  2024-09-27 10:25:01 ls -al
+  251  2024-09-27 10:25:01 sudo yum localinstall https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  252  2024-09-27 10:25:01 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  253  2024-09-27 10:25:01 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  254  2024-09-27 10:25:01 sqlplus
+  255  2024-09-27 10:25:01 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  256  2024-09-27 10:25:01 export ORACLE_SID=XE
+  257  2024-09-27 10:25:01 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  258  2024-09-27 10:25:01 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  259  2024-09-27 10:25:01 export ORACLE_SID=XE
+  260  2024-09-27 10:25:01 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  261  2024-09-27 10:25:01 sqlplus
+  262  2024-09-27 10:25:01 :q
+  263  2024-09-27 10:25:01 sqlplus
+  264  2024-09-27 10:25:01 sudo yum install git
+  265  2024-09-27 10:25:01 git clone https://github.com/Puppireddy-Akhil/training-bizz-akhilp.git
+  266  2024-09-27 10:25:01 git remote -v
+  267  2024-09-27 10:25:01 ssh-keygen -t rsa -b 4096 -C "puppireddyakhil@gmail.com" 
+  268  2024-09-27 10:25:01 eval "$(ssh-agent -s)"
+  269  2024-09-27 10:25:01 ssh-add /.ssh/id_rsa
+  270  2024-09-27 10:25:01 ssh-add 
+  271  2024-09-27 10:25:01 ls
+  272  2024-09-27 10:25:01 ls -a
+  273  2024-09-27 10:25:01 cd .ssh
+  274  2024-09-27 10:25:01 ls
+  275  2024-09-27 10:25:01 cat id_rsa.pub 
+  276  2024-09-27 10:25:01 cd ..
+  277  2024-09-27 10:25:01 ssh -T git@github.com
+  278  2024-09-27 10:25:01 git remote -v
+  279  2024-09-27 10:25:01 git config --global user.name "Puppireddy-Akhil"
+  280  2024-09-27 10:25:01 git config --global user.email "puppireddyakhil@gmail.com"
+  281  2024-09-27 10:25:01 git remote -v
+  282  2024-09-27 10:25:01 ls 
+  283  2024-09-27 10:25:01 ls -a
+  284  2024-09-27 10:25:01 git init
+  285  2024-09-27 10:25:01 git remote -v
+  286  2024-09-27 10:25:01 cd .git
+  287  2024-09-27 10:25:01 git clone https://github.com/Puppireddy-Akhil/training-bizz-akhilp.git
+  288  2024-09-27 10:25:01 ls
+  289  2024-09-27 10:25:01 rmdir training-bizz-akhilp/
+  290  2024-09-27 10:25:01 rm -r training-bizz-akhilp/
+  291  2024-09-27 10:25:01 ls
+  292  2024-09-27 10:25:01 cd ..
+  293  2024-09-27 10:25:01 ls -a
+  294  2024-09-27 10:25:01 git remote -v
+  295  2024-09-27 10:25:01 git config --global user.email "puppireddyakhil@gmail.com"
+  296  2024-09-27 10:25:01  git config --global user.name "Puppireddy-Akhil"
+  297  2024-09-27 10:25:01 gti remote -v
+  298  2024-09-27 10:25:01 git remote -v
+  299  2024-09-27 10:25:01 cd training-bizz-akhilp/
+  300  2024-09-27 10:25:01 git remote
+  301  2024-09-27 10:25:01 git remote -v
+  302  2024-09-27 10:25:01 git remote set-url origin git@github.com:Puppireddy-Akhil/training-bizz-akhilp.git
+  303  2024-09-27 10:25:01 git remote -v
+  304  2024-09-27 10:25:01 cd ..
+  305  2024-09-27 10:25:01 touch corn_script.sh
+  306  2024-09-27 10:25:01 sudo -i
+  307  2024-09-27 10:04:31 # Load history from the history file manually
+  308  2024-09-27 10:04:31 history -a
+  309  2024-09-27 10:04:31 # Load history from the history file manually
+  310  2024-09-27 10:04:31 history -a
+  311  2024-09-27 10:04:31 # Navigate to your GitHub repo
+  312  2024-09-27 10:04:31 cd ~/training-biz-akhilp
+  313  2024-09-27 10:04:31 # Save the history to the commandslist.txt file inside the repo
+  314  2024-09-27 10:04:31 history > ./commandslist.txt
+  315  2024-09-27 10:04:31 # Get the current date and time
+  316  2024-09-27 10:04:31 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  317  2024-09-27 10:04:31 # Add the commandslist.txt file to Git
+  318  2024-09-27 10:04:31 git add ./commandslist.txt
+  319  2024-09-27 10:04:31 # Commit the changes with the current time in the message
+  320  2024-09-27 10:04:31 git commit -m "Committed at $current_time"
+  321  2024-09-27 10:04:31 # Push the changes to GitHub
+  322  2024-09-27 10:04:31 git push origin main
+  323  2024-09-27 10:08:01 # Load history from the history file manually
+  324  2024-09-27 10:08:01 history -a
+  325  2024-09-27 10:08:01 # Load history from the history file manually
+  326  2024-09-27 10:08:01 history -a
+  327  2024-09-27 10:08:01 # Navigate to your GitHub repo
+  328  2024-09-27 10:08:01 cd ~/training-bizz-akhilp
+  329  2024-09-27 10:08:01 # Save the history to the commandslist.txt file inside the repo
+  330  2024-09-27 10:08:01 history > ./commandslist.txt
+  331  2024-09-27 10:08:01 # Get the current date and time
+  332  2024-09-27 10:08:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  333  2024-09-27 10:08:01 # Add the commandslist.txt file to Git
+  334  2024-09-27 10:08:01 git add ./commandslist.txt
+  335  2024-09-27 10:08:01 # Commit the changes with the current time in the message
+  336  2024-09-27 10:08:01 git commit -m "Committed at $current_time"
+  337  2024-09-27 10:08:01 # Push the changes to GitHub
+  338  2024-09-27 10:08:01 git push origin main
+  339  2024-09-27 10:15:01 # Load history from the history file manually
+  340  2024-09-27 10:15:01 history -a
+  341  2024-09-27 10:15:01 # Load history from the history file manually
+  342  2024-09-27 10:15:01 history -a
+  343  2024-09-27 10:15:01 # Navigate to your GitHub repo
+  344  2024-09-27 10:15:01 cd ~/training-bizz-akhilp
+  345  2024-09-27 10:15:01 # Save the history to the commandslist.txt file inside the repo
+  346  2024-09-27 10:15:01 history > ./commandslist.txt
+  347  2024-09-27 10:15:01 # Get the current date and time
+  348  2024-09-27 10:15:01 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  349  2024-09-27 10:15:01 # Add the commandslist.txt file to Git
+  350  2024-09-27 10:15:01 git add ./commandslist.txt
+  351  2024-09-27 10:15:01 # Commit the changes with the current time in the message
+  352  2024-09-27 10:15:01 git commit -m "Committed at $current_time"
+  353  2024-09-27 10:15:01 # Push the changes to GitHub
+  354  2024-09-27 10:15:01 git push origin main
+  355  2024-09-27 10:20:02 # Load history from the history file manually
+  356  2024-09-27 10:20:02 history -a
+  357  2024-09-27 10:20:02 # Load history from the history file manually
+  358  2024-09-27 10:20:02 history -a
+  359  2024-09-27 10:20:02 # Navigate to your GitHub repo
+  360  2024-09-27 10:20:02 cd ~/training-bizz-akhilp
+  361  2024-09-27 10:20:02 # Save the history to the commandslist.txt file inside the repo
+  362  2024-09-27 10:20:02 history > ./commandslist.txt
+  363  2024-09-27 10:20:02 # Get the current date and time
+  364  2024-09-27 10:20:02 current_time=$(date +"%Y-%m-%d %H:%M:%S")
+  365  2024-09-27 10:20:02 # Add the commandslist.txt file to Git
+  366  2024-09-27 10:20:02 git add ./commandslist.txt
+  367  2024-09-27 10:20:02 # Commit the changes with the current time in the message
+  368  2024-09-27 10:20:02 git commit -m "Committed at $current_time"
+  369  2024-09-27 10:20:02 # Push the changes to GitHub
+  370  2024-09-27 10:20:02 git push origin main
+  371  2024-09-27 10:25:01 # Load history from the history file manually
+  372  2024-09-27 10:25:01 history -a
+  373  2024-09-27 10:25:01 # Navigate to your GitHub repo
+  374  2024-09-27 10:25:01 cd ~/training-bizz-akhilp
+  375  2024-09-27 10:25:01 # Save the history to the commandslist.txt file inside the repo
+  376  2024-09-27 10:25:01 history > ./commandslist.txt
